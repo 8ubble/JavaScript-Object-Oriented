@@ -27,16 +27,28 @@ JS与他们不一样
 - null，空类型，就null值而已
 - undefined，未定义，就undefined值而已
 
-但是在我敲的时候，应该是只有三族志
+但是在我敲的时候，应该是没有null的吧？
 
 ```
-var obj = null;
-undefined
+>>> var obj = null;
+← undefined
+
+>>> var obj = "";
+← undefined
 ```
-
-
 
 1.2.1 鉴别原始类型
+
+可以考虑使用typeof，像下面这样：
+
+
+```
+>>>console.log(typeof null)
+object 
+← undefined
+```
+你看到这儿也许会很疑惑吧，这个呢
+
 1.2.2 原始方法
 1.3 引用类型
 1.3.1 创建对象
