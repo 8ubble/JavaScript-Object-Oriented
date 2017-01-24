@@ -6,6 +6,5 @@
 
 啊不对，中文版是这个：
 
-![](http://ec4.images-amazon.com/images/I/51aOh77MbaL._SY344_BO1,204,203,200_QL70_.jpg)
-
+![](/assets/51aOh77MbaL._SY344_BO1,204,203,200_QL70_.jpg)
 这本书是一本读书笔记
