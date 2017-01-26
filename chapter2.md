@@ -23,6 +23,19 @@ var add = function(num1 , num2){
 
 ### 2.2 函数就是值
 
+```
+function sayHi(){
+    console.log("Hi!");
+}
+
+sayHi();
+
+var sayHi2 = sayHi;
+
+sayHi2();
+```
+
+
 ### 2.3 参数
 
 ### 2.4 重载
