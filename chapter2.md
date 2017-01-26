@@ -8,7 +8,17 @@
 ### 2.1 声明or表达式？
 
 - 函数声明
+```
+function add(num1 , num2){
+    return num1 + num2;
+}
+```
 - 函数表达式
+```
+function add(num1 , num2){
+    return num1 + num2;
+}
+```
 
 
 ### 2.2 函数就是值
