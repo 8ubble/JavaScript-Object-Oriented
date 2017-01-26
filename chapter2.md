@@ -32,7 +32,7 @@ sayHi();
 
 var sayHi2 = sayHi;
 
-sayHi2(); //outputs "Hi!"
+sayHi2();               //outputs "Hi!"
 ```
 
 
