@@ -25,14 +25,14 @@ var add = function(num1 , num2){
 只要是可以使用其他引用值的地方，就可以使用函数。
 ```
 function sayHi(){
-    console.log("Hi!");
+    console.log("Hi!"); //outputs "Hi!"
 }
 
 sayHi();
 
 var sayHi2 = sayHi;
 
-sayHi2();
+sayHi2(); //outputs "Hi!"
 ```
 
 
