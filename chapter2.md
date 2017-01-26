@@ -15,9 +15,9 @@ function add(num1 , num2){
 ```
 - 函数表达式
 ```
-function add(num1 , num2){
+var add = function(num1 , num2){
     return num1 + num2;
-}
+};
 ```
 
 
