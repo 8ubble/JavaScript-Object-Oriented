@@ -19,7 +19,7 @@ var add = function(num1 , num2){
     return num1 + num2;
 };
 ```
-
+- 可以先使用函数再进行声明。
 
 ### 2.2 函数就是值
 
