@@ -22,7 +22,7 @@ var add = function(num1 , num2){
 - 可以先使用函数再进行声明。
 
 ### 2.2 函数就是值
-
+只要是可以使用其他引用值的地方，就可以使用函数。
 ```
 function sayHi(){
     console.log("Hi!");
