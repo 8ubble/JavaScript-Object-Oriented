@@ -33,8 +33,15 @@ var sayHi2 = sayHi;
 
 sayHi2();               //outputs "Hi!"
 ```
+和下面这段代码的功能是一样的：
+```
+var sayHi = new Function("console.log(\"Hi!\");");
+sayHi();               //outputs "Hi!"
+var sayHi2 = sayHi;
+sayHi2();
+```
 
-
+**记得：`函数就是对象`**
 ### 2.3 参数
 
 ### 2.4 重载
