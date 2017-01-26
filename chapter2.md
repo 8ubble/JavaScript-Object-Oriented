@@ -27,7 +27,6 @@ var add = function(num1 , num2){
 function sayHi(){
     console.log("Hi!"); //outputs "Hi!"
 }
-
 sayHi();
 
 var sayHi2 = sayHi;
