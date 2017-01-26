@@ -6,6 +6,7 @@
 
 啊不对，中文版是这个：
 
-![](/assets/51aOh77MbaL._SY344_BO1,204,203,200_QL70_.jpg)
+![](/assets/chinese.jpg)
 
 这本书是一本读书笔记。
+
