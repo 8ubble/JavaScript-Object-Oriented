@@ -7,13 +7,13 @@
 
 ### 2.1 声明or表达式？
 
-- 函数声明
+- 函数声明：`function`关键字+函数名
 ```
 function add(num1 , num2){
     return num1 + num2;
 }
 ```
-- 函数表达式
+- 函数表达式：`function`后面不需要加函数名
 ```
 var add = function(num1 , num2){
     return num1 + num2;
